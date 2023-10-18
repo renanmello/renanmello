@@ -7,7 +7,7 @@
 
 I'm a Back End developer :smile:
 
-I Love code and create new stuff, discover new technologies and dive deep in solving problems.
+Code for live, live for Code 🥰
 
 ## My specialties:
 
