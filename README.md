@@ -5,9 +5,9 @@
 
 ## About me:
 
-Back End developer :smile:
+Back end developer sometimes full stack too :smile:
 
-Code for live, live for Code 🥰
+Code to live, live to Code 🥰
 
 ## My specialties:
 
