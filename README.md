@@ -7,8 +7,10 @@
 ## About me:
 
 Back end developer sometimes full stack too :smile:
-
-Code to live, live to Code 🥰
+<p style="font-size: 24px; font-weight: bold;">
+  <span style="color: #ff6347;">Programming to live,</span> 
+  <span style="color: #4682b4;">living to program</span>🥰
+</p>
 
 ## My specialties:
 
