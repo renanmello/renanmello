@@ -4,6 +4,10 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanmello)](https://github.com/renanmello)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-mello-202ba5211/)](https://www.linkedin.com/in/renan-mello-202ba5211/)
 
+## Resume Page
+
+https://renanmello.github.io/resumepage/ 
+
 ## About me:
 
 Back end developer sometimes full stack too :smile:
