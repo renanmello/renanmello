@@ -36,3 +36,7 @@ Back-end developer, sometimes full stack too :smile:
 <img src ="https://img.shields.io/badge/SQLyog-007bff?style=for-the-badge&logo=sqlyog&logoColor=white"/> 
 
 <img src ="https://img.shields.io/badge/pgAdmin-CC2E2E?style=for-the-badge&logo=pgadmin&logoColor=white"/> 
+
+
+
+![renanmello's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renanmello&theme=vue-dark&hide_border=true)
