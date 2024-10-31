@@ -8,8 +8,6 @@ Enthusiastic back-end developer passionate about building impactful applications
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-mello-20ba5211/)](https://www.linkedin.com/in/renan-mello-20ba5211/)  
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/renandev_)](https://twitter.com/renandev_)  
-  (Optional, replace with your Twitter URL)
 
 ## Resume Page
 
