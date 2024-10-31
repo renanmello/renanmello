@@ -23,7 +23,7 @@ Back-end developer, sometimes full stack too :smile:
 
 ## My specialties:
 
-**Languages & Frameworks:**
+#Languages & Frameworks:#
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>  
  
@@ -38,6 +38,14 @@ Back-end developer, sometimes full stack too :smile:
  
 <img src ="https://img.shields.io/badge/Flask-0000FF?style=for-the-badge&logo=flask&logoColor=white"/> 
 
-**Databases:**
+### Bancos de dados ️
 <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-<img src ="https://img.shields.io/badge/postgres-%233161 1   
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=logo=postgresql&logoColor=white"/>  
+ 
+ 
+<img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+ 
+
+### Ferramentas ️
+<img src ="https://img.shields.io/badge/SQLyog-007bff?style=for-the-badge&logo=sqlyog&logoColor=white"/> 
+<img src ="https://img.shields.io/badge/pgAdmin-CC2E2E?style=for-the-badge&logo=pgadmin&logoColor=white"/> 
