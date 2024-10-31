@@ -28,9 +28,7 @@ Back-end developer, sometimes full stack too :smile:
 * **Outras:** <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>,
 
 ### Front-end 
-* **Linguagens:**  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>,  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>,  
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>,  
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+* **Linguagens:**  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>,  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>,  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>,  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 * **Frameworks:**   
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>,   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, Vue.js <img src="https://img.shields.io/badge/Vue.js-33CC33?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 * **Bibliotecas:**   <img src="https://img.shields.io/badge/redux-5964E0?style=for-the-badge&logo=redux&logoColor=white"/>,   <img src="https://img.shields.io/badge/zustand-EC365B?style=for-the-badge&logo=zustand&logoColor=white"/>,   <img src="https://img.shields.io/badge/Material_UI-009BE5?style=for-the-badge&logo=material-ui&logoColor=white"/>,   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
