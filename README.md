@@ -38,5 +38,6 @@ Back-end developer, sometimes full stack too :smile:
 <img src ="https://img.shields.io/badge/pgAdmin-CC2E2E?style=for-the-badge&logo=pgadmin&logoColor=white"/> 
 
 
-
+![renanmello's Stats](https://github-readme-stats.vercel.app/api?username=renanmello&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![renanmello's Streak](https://github-readme-streak-stats.herokuapp.com/?user=renanmello&theme=vue-dark&hide_border=true)
+![renanmello's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmello&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
