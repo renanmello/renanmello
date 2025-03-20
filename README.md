@@ -45,11 +45,11 @@ I'm a **Back-end Developer** (sometimes Full-stack too!) who thrives on solving 
 ![renanmello's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renanmello&theme=vue-dark&show_icons=true&hide_border=true)
 
 ---
-
+https://www.linkedin.com/in/renan-mello-202ba5211/
 ## 🌐 Social Media
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renanmello)](https://github.com/renanmello)  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-mello-20ba5211/)](https://www.linkedin.com/in/renan-mello-20ba5211/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renan-mello-202ba5211/)](https://www.linkedin.com/in/renan-mello-202ba5211/)
 
 ---
 
